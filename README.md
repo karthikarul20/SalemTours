@@ -1,4 +1,3 @@
-SalemTours
-==========
+Created by Codrops
 
-Website for Salem Tours and Travels
+Please read more about our license here: http://tympanus.net/codrops/licensing/ 
